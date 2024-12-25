@@ -31,3 +31,41 @@ Install dependencies: pip install -r requirements.txt
 Train the model: python rain.py
 Run the web server: python server.py
 Open the app: Access localhost:5000 in your browser.
+
+
+Snapshots
+
+
+
+Basic UI
+![image](https://github.com/user-attachments/assets/ba6da4f5-0771-4456-94de-46f45b7d648e)
+
+
+
+ Nice comment
+![image](https://github.com/user-attachments/assets/98a68c5e-951e-4b11-b129-c3e2f6b56285)
+
+
+ Submit nice comment
+![image](https://github.com/user-attachments/assets/1610a862-f4e5-4c99-8e0f-09c0679b8ab6)
+
+
+
+ Toxic comment
+![image](https://github.com/user-attachments/assets/a3459249-75d1-457d-8f39-b9bae9070c1a)
+
+
+
+ Submit toxic comment
+![image](https://github.com/user-attachments/assets/f438ee4d-c1be-40ee-895e-a7f2b02f92ec)
+
+ 
+
+ Toxic keyword
+![image](https://github.com/user-attachments/assets/64da6403-2caa-4bf2-9ba6-ea7442e64a35)
+
+
+ Positive comment that is using the toxic keyword
+![image](https://github.com/user-attachments/assets/a9f838b9-b13b-43d8-bd7f-fc876bc67576)
+
+We are able to post positive comments that have a toxic keyword
